@@ -30,31 +30,31 @@ QUIZ_COLUMNS = ["Họ và tên", "Lớp", "Số câu đúng",
 # --- DỮ LIỆU CÂU HỎI TRẮC NGHIỆM ---
 QUIZ_DATA = [
     {
-        "question": "1. BMI là viết tắt của thuật ngữ nào?",
+        "question": "BMI là viết tắt của thuật ngữ nào?",
         "options": ["Body Mass Index", "Body Muscle Index", "Basic Metabolic Indicator", "Bone Mass Indicator"],
         "answer": "Body Mass Index",
         "explanation": "BMI là chỉ số khối cơ thể (Body Mass Index)."
     },
     {
-        "question": "2. Công thức tính BMI chuẩn là gì?",
+        "question": "Công thức tính BMI chuẩn là gì?",
         "options": ["Cân nặng / Chiều cao", "Cân nặng / (Chiều cao x 2)", "Cân nặng / (Chiều cao x Chiều cao)", "Chiều cao / Cân nặng"],
         "answer": "Cân nặng / (Chiều cao x Chiều cao)",
         "explanation": "Công thức: BMI = Cân nặng (kg) / [Chiều cao (m)]²"
     },
     {
-        "question": "3. Theo thang đo WHO cho người châu Á, BMI từ 23 trở lên được xếp vào loại nào?",
+        "question": "Theo thang đo WHO cho người châu Á, BMI từ 23 trở lên được xếp vào loại nào?",
         "options": ["Bình thường", "Thừa cân (Tiền béo phì)", "Thiếu cân", "Béo phì độ 2"],
         "answer": "Thừa cân (Tiền béo phì)",
         "explanation": "Với người châu Á, BMI >= 23 được coi là thừa cân."
     },
     {
-        "question": "4. Chỉ số BMI KHÔNG phản ánh chính xác điều gì?",
+        "question": "Chỉ số BMI KHÔNG phản ánh chính xác điều gì?",
         "options": ["Tình trạng dinh dưỡng chung", "Tỷ lệ mỡ và cơ trong cơ thể", "Mối liên quan với nguy cơ bệnh lý", "Sự cân đối giữa chiều cao và cân nặng"],
         "answer": "Tỷ lệ mỡ và cơ trong cơ thể",
         "explanation": "BMI không phân biệt được trọng lượng đó là mỡ hay cơ bắp (ví dụ vận động viên thể hình có BMI cao nhưng không béo)."
     },
     {
-        "question": "5. Để duy trì BMI lý tưởng, biện pháp nào quan trọng nhất?",
+        "question": "Để duy trì BMI lý tưởng, biện pháp nào quan trọng nhất?",
         "options": ["Nhịn ăn hoàn toàn bữa tối", "Dinh dưỡng cân bằng và vận động hợp lý", "Chỉ uống nước ngọt thay nước lọc", "Ngủ 12 tiếng mỗi ngày"],
         "answer": "Dinh dưỡng cân bằng và vận động hợp lý",
         "explanation": "Sự cân bằng giữa năng lượng nạp vào và tiêu hao là chìa khóa."
@@ -368,3 +368,4 @@ with tab3:
                     st.info("Chưa có dữ liệu điểm thi.")
             except Exception:
                 st.info("Chưa có file dữ liệu.")
+
