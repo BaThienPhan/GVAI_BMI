@@ -1,0 +1,20 @@
+﻿Họ và tên,Lớp,Nhóm,Chiều cao (m),Cân nặng (kg),Chỉ số BMI,Kết luận,Lời khuyên
+Nguyễn Phước Định Tông,7,Nhóm 1,1.6,62,24.2,24.22,22 <= BMI < 25: Có nguy cơ béo phì,"Ăn ít lại, Thể dục ,vận động nhiều hơn"
+Phan Bảo Trâm,7,Nhóm 1,1.51,36,15.7,15.79,15 <= BMI < 22: Bình thường,Cần bổ sung các chất dinh dưỡng nhiều hơn
+Nguyễn Khôi Nguyên,7,Nhóm 1,1.56,45,18,18.49,15 <= BMI < 22: Bình thường,Giữ chế độ ăn hiện tại 
+Trần Hoàng Gia Linh,7,Nhóm 1,1.58,45,18,18.03,15 <= BMI < 22: Bình thường,Giữ chế độ ăn hiện tại 
+Trần Ngọc Bảo Lâm,7.1,Nhóm 2,1.36,25.85,14,13.98,BMI < 15: Gầy,Ăn nhiều hơn
+Lê Hoàng An Nhiên,7.1,Nhóm 2,1.49,36.7,16.5,16.53,15 <= BMI < 22: Bình thường,Duy trì chế độ ăn
+Hoàng Thái Bảo,7.1,Nhóm 2,1.52,38.2,16.5,16.53,15 <= BMI < 22: Bình thường,Duy trì chế độ ăn
+Ngô Đa Minh Trí,7.1,Nhóm 2,1.5,47.1,20.9,20.93,15 <= BMI < 22: Bình thường,Duy trì chế độ ăn
+Nguyễn Gia Phúc,7.1,Nhóm 3,1.56,51,20.9,20.96,15 <= BMI < 22: Bình thường,Giữ chế độ ăn uống
+Phạm Quang Thịnh,7.1,Nhóm 3,1.45,39,18.5,18.55,15 <= BMI < 22: Bình thường
+Đoàn Hoàng Lam,7.1,Nhóm 3,1.57,56.3,22.8,22.84,15 <= BMI < 22: Bình thường
+Nguyễn Ngọc Gia Hân,7.1,Nhóm 3,1.54,42,17.7,17.71,15 <= BMI < 22: Bình thường
+Lê Hà Bảo Hưng,7.1,Nhóm 4,1.66,65.1,23.6,23.62,22 <= BMI < 25: Có nguy cơ béo phì,Nên giảm lượng thức ăn và tập luyện mỗi ngày
+Nguyễn Đông Quân,7.1,Nhóm 4,1.5,33.5,14.8,14.89,BMI < 15: Gầy,Nên tăng thêm khẩu phần ăn mỗi ngày
+Nguyễn Quý An Khang,7.1,Nhóm 4,1.52,52,22,22.51,22 <= BMI < 25: Có nguy cơ béo phì,Nên chơi thể thao hàng ngày
+Nguyễn Trần Bảo Uyên,7.1,Nhóm 4,1.63,49,18.4,18.44,15 <= BMI < 22: Bình thường
+Trần Hữu Thịnh,7.1,Nhóm 5,1.64,44.1,16.3,16.4,15 <= BMI < 22: Bình thường,Giữ nguyên chế độ ăn uống và sinh hoạt
+Hồ Anh Đăng Khoa,7.1,Nhóm 5,1.6,61,23.8,23.83,22 <= BMI < 25: Có nguy cơ béo phì,"Nên ăn ít hơn, và vận động nhiều hơn"
+Nguyễn Ngọc Bảo Hưng,7.1,Nhóm 5,1.56,79,32,32.46,BMI >= 25: Béo phì,Nên áp dụng những phương pháp giảm cân để khỏi béo phì
