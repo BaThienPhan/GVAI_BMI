@@ -94,7 +94,7 @@ with tab_intro:
         st.header("🎬 Tình huống khởi động")
         st.info("Cùng xem thầy trò Đường Tăng gặp rắc rối gì về cân nặng nhé!")
         # Kiểm tra file video có tồn tại không
-        st.video("https://youtu.be/rIpExCl3MQ4")
+        st.video("https://youtu.be/0ICqUBIW3Rs")
 
     with col_i2:
         st.success("💡 Câu hỏi thảo luận:")
@@ -368,4 +368,5 @@ with tab3:
                     st.info("Chưa có dữ liệu điểm thi.")
             except Exception:
                 st.info("Chưa có file dữ liệu.")
+
 
